@@ -5,3 +5,10 @@
 - Téléchargez et installer [Git](https://git-scm.com/download).
 - Créez votre compte sur [Github](https://github.com/).
 - Téléchargez le logiciel [Github Desktop](https://desktop.github.com/), installez le et connectez vous avec votre compte Github.
+
+## Création du repo :construction:
+- Dans Github Desktop, créez un nouveau repository. Par convention de nommage, on va utiliser le "kebab-case" (exemple: "tout-en-minuscule-avec-petits-tirets"). 
+- On n'oublie pas sa petite **description** qui va bien.
+- Cochez Initialize this repository with a **README**
+> Le ficher *README* sert à documenter votre projet de manière détaillée (le texte que tu lis est un README :astonished:)
+- Puis cliquez sur **Create repository**.
