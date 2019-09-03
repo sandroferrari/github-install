@@ -43,6 +43,7 @@ Vous avez maintenant des modifications en cours que vous pouvez visualiser dans 
 >
 >_***master :*** la branche master est la branche par défaut qui contient le code courant de votre projet._
 - Dans Github Desktop, regardez en bas à gauche de l'interface :
+
 ![commit](content/commit.png)
 - Remplissez le champ **Summary** en décrivant succintement les modifications en cours _(ex: "création arborescence")_.
 - Si vous le souhaitez, vous pouvez ajouter plus d'informations dans le champ **Description**.
@@ -51,6 +52,7 @@ Vous avez maintenant des modifications en cours que vous pouvez visualiser dans 
 Maintenant que le commit est effectué, les modifications ont donc été bien validées et vous n'avez plus de modifications en cours. Il ne reste plus qu'à envoyer ces modifications sur le repo Github.
 
 - Toujours dans Github Desktop, en haut de l'interface :
+
 ![commit](content/push.png)
 - Cliquez sur **Push origin**, et le tour est joué !
 
