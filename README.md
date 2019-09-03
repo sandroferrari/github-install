@@ -12,3 +12,23 @@
 - Cochez Initialize this repository with a **README**
 > Le ficher *README* sert à documenter votre projet de manière détaillée (le texte que tu lis est un README :astonished:)
 - Puis cliquez sur **Create repository**.
+
+## Arborescence du projet
+/mon-projet
+    ├──/css
+    |    └── style.css
+    ├──/js 
+    |    └── app.js
+    ├── .gitignore
+    ├── index.html
+    └── README.md
+
+## Commit - Push sur la branche "master"
+>_***Commit :*** valide les modifications du projet à un instant T, lorsqu’il y a plusieurs commits, vous pouvez les comparer et ainsi observer les changements apportés au projet._
+>
+>_***Push :*** envoie les commits au repo distant._
+>
+>_***Branche :*** timeline de l'historique des modifcations du projet._
+>
+>_***master :*** la branche master est la branche par défaut qui contient le code courant de votre repo GitHub._
+- 
