@@ -1,4 +1,4 @@
->_***Git*** est un outil qui nous permet d’avoir un historique de toutes les modifications que l’on a fait dans un projet sur une timeline, c'est le ***versioning***. Un projet géré via git s'appelle un ***repository*** ou ***repo***._
+>_***Git*** est un outil qui nous permet d’avoir un historique de toutes les modifications que l’on a faites dans un projet sur une timeline, c'est le ***versioning***. Un projet géré via git s'appelle un ***repository*** ou ***repo***._
 
 >_***GitHub*** est un service en ligne qui permet d'héberger ses ***repositories*** de code._
 ## Installation :hammer_and_wrench:
@@ -7,7 +7,10 @@
 - Téléchargez le logiciel [Github Desktop](https://desktop.github.com/), installez le et connectez vous avec votre compte Github.
 
 ## Création du repo :construction:
-- Dans Github Desktop, créez un nouveau repository. Par convention de nommage, on va utiliser le "kebab-case" (exemple: "tout-en-minuscule-avec-petits-tirets"). 
+- Dans **Github Desktop**, créez un **New repository**. 
+>Par convention de nommage, on va utiliser le "kebab-case" (exemple: "tout-en-minuscule-avec-petits-tirets"). 
+
+![new repo](content/new-repo.png)
 - On n'oublie pas sa petite **description** qui va bien.
 - Choisissez un répertoire de votre projet dans **Local path**.
 - Cochez Initialize this repository with a **README**.
@@ -53,12 +56,14 @@ Maintenant que le commit est effectué, les modifications ont donc été bien va
 
 - Toujours dans Github Desktop, en haut de l'interface :
 
-![commit](content/push.png)
+![push](content/push.png)
 - Cliquez sur **Push origin**, et le tour est joué !
+
+>_***origin :*** le nom par défaut que Git donne au serveur._
 
 >Ces étapes seront à renouveler aux points clés de votre avancement du projet, **il ne faut pas hésiter à commit vos modification régulièrement**, c'est ce qui va constituer l'historique de vos modifications. 
 
 >Vous pouvez accumuler plusieurs commits avant de push sur le repo Github.
 
 
-
+### Il ne vous reste plus qu'à coder :art:
