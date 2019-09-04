@@ -2,7 +2,7 @@
 
 >_***GitHub*** est un service en ligne qui permet d'héberger ses ***repositories*** de code._
 ## Installation :hammer_and_wrench:
-- Téléchargez et installer [Git](https://git-scm.com/download).
+- Téléchargez et installez [Git](https://git-scm.com/download).
 - Créez votre compte sur [Github](https://github.com/).
 - Téléchargez le logiciel [Github Desktop](https://desktop.github.com/), installez le et connectez vous avec votre compte Github.
 
@@ -12,7 +12,7 @@
 
 ![new repo](content/new-repo.png)
 - On n'oublie pas sa petite **description** qui va bien.
-- Choisissez un répertoire de votre projet dans **Local path**.
+- Choisissez un répertoire pour votre projet dans **Local path**.
 - Cochez Initialize this repository with a **README**.
 > Le ficher *README* sert à documenter votre projet de manière détaillée (le texte que tu lis est un README :astonished:)
 - Puis cliquez sur **Create repository**.
@@ -45,7 +45,7 @@ Vous avez maintenant des modifications en cours que vous pouvez visualiser dans 
 >_***Branche :*** timeline contenant de l'historique des modifcations du projet._
 >
 >_***master :*** la branche master est la branche par défaut qui contient le code courant de votre projet._
-- Dans Github Desktop, regardez en bas à gauche de l'interface :
+- Dans **Github Desktop**, regardez en bas à gauche de l'interface :
 
 ![commit](content/commit.png)
 - Remplissez le champ **Summary** en décrivant succintement les modifications en cours _(ex: "création arborescence")_.
